@@ -1,0 +1,9 @@
+.idea
+data/*
+**/*.pyc
+__pycache__
+data/metabase/
+airflow/airflow.*
+airflow/*.txt
+airflow/*.py
+airflow/logs
